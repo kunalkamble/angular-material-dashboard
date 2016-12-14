@@ -11,16 +11,16 @@
 
     vm.user = {
       title: 'Admin',
-      email: 'contact@flatlogic.com',
-      firstName: '',
-      lastName: '' ,
-      company: 'FlatLogic Inc.' ,
-      address: 'Fabritsiusa str, 4' ,
-      city: 'Minsk' ,
+      email: 'contact@kunalkamble.com',
+      firstName: 'Kunal',
+      lastName: 'Kamble' ,
+      company: 'KK Inc.' ,
+      address: 'Mavis Rd' ,
+      city: 'Mississauga' ,
       state: '' ,
       biography: 'We are young and ambitious full service design and technology company. ' +
       'Our focus is JavaScript development and User Interface design.',
-      postalCode : '220007'
+      postalCode : 'L5V 2L5'
     };
   }
 
